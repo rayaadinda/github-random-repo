@@ -2,8 +2,6 @@
 
 A web application that helps you discover random GitHub repositories based on programming languages. Perfect for finding new projects to contribute to or learning from others' code.
 
-![GitHub Random Repository Finder](screenshot.png)
-
 ## Features
 
 - Search for random repositories by programming language
@@ -52,12 +50,5 @@ To get a GitHub token:
 npm run dev
 ```
 
-The application will be available at `http://localhost:5173`
 
-## Contributing
 
-Feel free to open issues and pull requests for any improvements you'd like to add.
-
-## License
-
-MIT License - feel free to use this project for learning or building upon it.
