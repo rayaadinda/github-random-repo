@@ -3,6 +3,8 @@
 A web application that helps you discover random GitHub repositories based on programming languages. Perfect for finding new projects to contribute to or learning from others' code.
 this is a project challenge from https://roadmap.sh/projects/github-random-repo
 
+<img src="https://github.com/rayaadinda/github-random-repo/blob/main/Screenshot%202025-01-15%20001110.png">
+
 ## Features
 
 - Search for random repositories by programming language
